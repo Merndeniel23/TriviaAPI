@@ -1,7 +1,7 @@
 {
-    "name": "Weather Forecast",
-    "short_name": "WeatherApp",
-    "description": "A simple weather forecast app that shows daily max and min temperatures.",
+    "name": "Trivia Quiz App",
+    "short_name": "Trivia",
+    "description": "A fun trivia quiz game powered by the Open Trivia Database API.",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#ffffff",
