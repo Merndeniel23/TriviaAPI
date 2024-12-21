@@ -33,6 +33,9 @@ h1 {
     background-color: hwb(4 21% 5%);
     color: white;
 }
+#next-button {
+    background-color: #16d4fa;
+}
 
 button {
     background-color: #313131;
